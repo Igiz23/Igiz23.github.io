@@ -9,6 +9,10 @@ a:hover {
 }
 html {
 	font-family: 'Roboto', sans-serif;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 @media (min-width: 576px) {
