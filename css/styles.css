@@ -1,5 +1,12 @@
 /* Typography */
+a {
+    text-decoration: none;
+    color: white;
+}
 
+a:hover {
+    color: black;
+}
 html {
 	font-family: 'Roboto', sans-serif;
 }
